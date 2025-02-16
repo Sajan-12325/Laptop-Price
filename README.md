@@ -15,5 +15,17 @@ This project is done is simultaneous with Correlation and Visuaization repositor
 
 6. Using Linear regression modules and fitting the data and predicting the values for unseen data for single variable.
 
+7. Evaluating the mode using regression metrics like mean_squared_error, r2_score or coefficient of determination
+
+8. Plotting distribution plot to check how the well the model predicted.
+
+9. Fitting Multiple inear regression to check whether it performs better than the previous model
+
+10. Using Polynomial regression to check the order of polynomial features, the degree at which the model performs best.
+
+11. Building Pipelines to automate the process of standardization, selecting the polynomial features and fitting it to the linea regression model.
+
+
+
 
 
